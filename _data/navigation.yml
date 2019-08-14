@@ -42,7 +42,7 @@
 - title: "Etymology"
   url: "/headers/"
   side: left
-#  dropdown:
+  dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
