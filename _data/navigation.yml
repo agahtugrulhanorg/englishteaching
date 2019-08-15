@@ -31,15 +31,15 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Dene Dene Styles"
+- title: "YDS-LYS"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "Başlangıç"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "Akademik"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "Turbo"
     url: "/design/header-image-color/"
   - title: "Header Only With Logo"
     url: "/design/header-logo-only/"
