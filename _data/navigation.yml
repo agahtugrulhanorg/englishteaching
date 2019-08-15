@@ -1,48 +1,40 @@
-- title: Daily English
+- title: Egitim
   url: "/"
   side: left
 
-- title: "TOEFL/IELTS"
+- title: Basladi
   url: "/getting-started/"
   side: left
-  dropdown:
-  - title: "Reading"
-    url: "/design/grid/"
-  - title: "Writing"
-    url: "/design/typography/typography/"
-  - title: "Listening"
-    url: "/design/page/"
-  - title: "Speaking"
-    url: "/design/post-left-sidebar/"
-  - title: "TOP 1000 Vocabulary"
-    url: "/design/grid/"
-  - title: "Recap"
-    url: "/design/typography/typography/"
 
-- title: "YDS/LYS"
+- title: "Deneme"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Vocabulary"
+  - title: "Grid & Colors"
     url: "/design/grid/"
-  - title: "Grammar"
+  - title: "Typography"
     url: "/design/typography/typography/"
-  - title: "Reading"
+  - title: "Page/Post"
     url: "/design/page/"
-  - title: "Translation"
+  - title: "Post-Left-Sidebar"
     url: "/design/post-left-sidebar/"
-  - title: "Dialogues"
+  - title: "Post-Right-Sidebar"
     url: "/design/post-right-sidebar/"
-  - title: "Irrelevant Sentences"
+  - title: "Page Full-Width"
     url: "/design/page-fullwidth/"
-  - title: "Recap"
+  - title: "Blog-Page"
     url: "/blog/"
+  - title: "Video"
+    url: "/design/video/"
+  - title: "Gallery"
+    url: "/design/gallery/"
+  - title: "Portfolio"
+    url: "/design/portfolio/"
 
-
-- title: "Etymology"
+- title: "Dene Dene Styles"
   url: "/headers/"
   side: left
-#  dropdown:
+  dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
@@ -58,22 +50,13 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: "Pronunciation"
+- title: Documentation
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Phonetics"
+  - title: "Changelog"
     url: "/changelog/"
-  - title: "Exercises"
-    url: "/roadmap/"
-    
-- title: "Idioms and American Culture"
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Top 1000 Idioms"
-    url: "/changelog/"
-  - title: "Avarage Joe"
+  - title: "Roadmap"
     url: "/roadmap/"
 
 - title: Blog
