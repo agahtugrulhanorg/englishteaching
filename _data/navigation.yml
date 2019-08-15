@@ -1,40 +1,48 @@
-- title: Start
+- title: Daily English
   url: "/"
   side: left
 
-- title: Getting Started
+- title: "TOEFL/IELTS"
   url: "/getting-started/"
   side: left
+  dropdown:
+  - title: "Reading"
+    url: "/design/grid/"
+  - title: "Writing"
+    url: "/design/typography/typography/"
+  - title: "Listening"
+    url: "/design/page/"
+  - title: "Speaking"
+    url: "/design/post-left-sidebar/"
+  - title: "TOP 1000 Vocabulary"
+    url: "/design/grid/"
+  - title: "Recap"
+    url: "/design/typography/typography/"
 
-- title: "Templates"
+- title: "YDS/LYS"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Vocabulary"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "Grammar"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "Reading"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Translation"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
+  - title: "Dialogues"
     url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
+  - title: "Irrelevant Sentences"
     url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
+  - title: "Recap"
     url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
-- title: "Header Styles"
+
+- title: "Etymology"
   url: "/headers/"
   side: left
-  dropdown:
+#  dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
   - title: "Header with Image and Pattern"
@@ -50,13 +58,22 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: "Pronunciation"
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Phonetics"
     url: "/changelog/"
-  - title: "Roadmap"
+  - title: "Exercises"
+    url: "/roadmap/"
+    
+- title: "Idioms and American Culture"
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Top 1000 Idioms"
+    url: "/changelog/"
+  - title: "Avarage Joe"
     url: "/roadmap/"
 
 - title: Blog
