@@ -46,13 +46,13 @@
   - title: "Kaynaklar"
     url: "/design/header-with-text/"
 
-- title: Documentation
+- title: Telafuz Dersleri
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Fonetik dersleri"
     url: "/changelog/"
-  - title: "Roadmap"
+  - title: "Egzersizler"
     url: "/roadmap/"
 
 - title: Blog
