@@ -41,14 +41,10 @@
     url: "/design/header-image-pattern/"
   - title: "Turbo"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
+  - title: "Egzersizler"
     url: "/design/header-logo-only/"
-  - title: "Header With Text"
+  - title: "Kaynaklar"
     url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
 - title: Documentation
   url: "/documentation/"
