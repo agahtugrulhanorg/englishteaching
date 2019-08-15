@@ -10,13 +10,13 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Reading"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "Writig"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "Listening"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Speaking"
     url: "/design/post-left-sidebar/"
   - title: "Post-Right-Sidebar"
     url: "/design/post-right-sidebar/"
