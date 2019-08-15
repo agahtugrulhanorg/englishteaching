@@ -55,6 +55,15 @@
   - title: "Egzersizler"
     url: "/roadmap/"
 
+- title: Amerikan Kültürü
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Amerika'da Yaşam"
+    url: "/blog/archive/"
+  - title: "Deyimler"
+    url: "/blog/archive/"
+
 - title: Blog
   url: "/blog/"
   side: left
