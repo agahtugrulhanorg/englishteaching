@@ -21,7 +21,7 @@ widget3:
   title: "Çok Yönlü Eğitim"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: 'Özel derslerimiz sonrasında sadece gramer odaklı değil, <b> konuşma kalıpları, telafuz dersleri, akademik ingilizce yetkinliği, amerikan kültürünü tanıma, idiomatik konuşmayı geliştirecek deyimleri öğrenme </b> gibi konular da işlenir ve ilgili kaynaklar ve egzersizler size verilir. Özel ders için: <a href="http://facebook.com/agahtugrulhan">@agahtugrulhan</a>.'
+  text: 'Özel derslerimiz sonrasında sadece gramer odaklı değil, <b> konuşma kalıpları, telafuz dersleri, akademik ingilizce yetkinliği, amerikan kültürünü tanıma, idiomatik konuşmayı geliştirecek deyimleri öğrenme </b> gibi konuları da işliyoruz ve ilgili kaynakları ve egzersizleri size her ders sonunda veriyoruz. Özel ders randevusu için: <a href="http://facebook.com/agahtugrulhan">@agahtugrulhan</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
