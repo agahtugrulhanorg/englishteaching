@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'English Teaching'
+title: 'English Education'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A Flexible Theme for Jekyll'
@@ -30,7 +30,7 @@ baseurl: '/englishteaching'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: 
+improve_content:
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
